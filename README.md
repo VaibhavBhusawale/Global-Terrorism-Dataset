@@ -1,9 +1,7 @@
 # Global-Terrorism-Dataset
-Exploratory data Analysis of GTD 1970 to 2017 
-I recently completed my first EDA Capstone project as part of Data Science Cource at AlmaBetter.
+Exploratory data Analysis of GTD 1970 to 2017.
 For this project , I analyzed Global Terrorism Dataset of 1970 to 2017 which contains international and National
 terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks.
-
 As the first step, perform Data wrangling over the raw data of terrorism (1960 to 2017) further I divided my solution into Three main parts i.e. World Wide terrorism, Terrorism in India and the last work on Tableau to form Dashboard.
 In World Terrorism I focused on the firstly importing required Libraries and cleaning the data set then working on some basic analysis like Highest Terrorism Attacks in Various Countries and Region wise. After that Analysis found out the Top terrorist Country and region.
 Next step is plottingthe related Graphs which can show the terrorist activity.Howit has increased year wise. And which is the most affected country in the region. By using Bar graph, I found out the top most active Terrorism Group in the world.
